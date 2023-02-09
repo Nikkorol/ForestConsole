@@ -1,0 +1,17 @@
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ForestConsole.exe
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ForestConsole.deps.json
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ForestConsole.runtimeconfig.json
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ForestConsole.dll
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ref\ForestConsole.dll
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\ForestConsole.pdb
+C:\Users\Nikita\Desktop\WheatherForecastConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.csproj.CopyComplete
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.dll
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ref\ForestConsole.dll
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.pdb
+C:\Users\Nikita\Desktop\WheatherForecastConsole\obj\Debug\net6.0\ForestConsole.genruntimeconfig.cache
